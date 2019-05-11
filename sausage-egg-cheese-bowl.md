@@ -17,7 +17,7 @@ Macros:
 * 1tbsp oil
 
 ## Directions
-### Preperation
+### Preparation
 Chop the red pepper. Chop the green onions. Crack twelve eggs into a bowl and mix thoroughly. Season with salt and pepper. Shred the cheese, if needed.
 
 ### Cooking
