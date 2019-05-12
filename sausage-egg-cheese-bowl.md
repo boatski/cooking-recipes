@@ -1,5 +1,7 @@
 # Sausage Egg & Cheese Bowl
 
+![](./images/sausage-egg-cheese-bowl.jpeg)
+
 ## Information
 Servings: 6  
 Calories: 429  
