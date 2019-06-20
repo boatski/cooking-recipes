@@ -2,11 +2,11 @@
 
 ## Information
 Servings: 6  
-Calories:   
+Calories: 308  
 Macros:
-* Carb: 
-* Fat: 
-* Protein: 
+* Carb: 2g
+* Fat: 23g
+* Protein: 21g
 
 ## Ingredients
 * 12 large eggs
