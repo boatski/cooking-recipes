@@ -34,7 +34,7 @@ Turn on broiler. Add breasts to a baking sheet and brush one side with sauce for
 
 Cook the broccoli.
 
-Split the chicken, broccoli, and rice into five containers. 
+Split the chicken, broccoli, and rice into five containers. Add remaining sauce to each container.
 
 ## Notes
 This recipe was adapted from [The Kitchen Whisperer](https://www.thekitchenwhisperer.net/2019/02/21/korean-gochujang-sticky-chicken-breasts-instant-pot/).
