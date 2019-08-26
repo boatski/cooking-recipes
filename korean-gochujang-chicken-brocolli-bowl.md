@@ -18,6 +18,9 @@ Macros:
 * 2 tbsp toasted sesame oil
 * 5 tbsp gochujang chili paste
 * 2 tsp rice vinegar
+* 1/2 tsp black pepper
+* 1/2 tsp kosher salt
+* 1 tsp ground ginger
 
 ## Directions
 ### Preparation
