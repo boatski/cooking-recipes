@@ -5,6 +5,7 @@ A collection of cooking recipes used for meal prepping.
 
 ### Breakfast
 * [Sausage Egg & Cheese Bowl](https://github.com/boatski/cooking-recipes/blob/master/sausage-egg-cheese-bowl.md)
+* [Sausage Egg & Cheese Cups](https://github.com/boatski/cooking-recipes/blob/master/sausage-egg-cheese-cups.md)
 
 ### Lunch / Dinner
 * [Chicken Tikka Masala](https://github.com/boatski/cooking-recipes/blob/master/chicken-tikka-masala-md)
